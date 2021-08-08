@@ -19,5 +19,5 @@
 1) Добавить валидацию форм
 2) Добавить бургер-меню при малых разрешениях экрана
 
-### :link: IP-адрес сервера[http://178.154.196.138](http://178.154.196.138)  
-### :link: Домен сервера[http://express-mesto.kerjanoid.nomoredomains.club](http://express-mesto.kerjanoid.nomoredomains.club)  
+### :link: IP-адрес сервера - [http://178.154.196.138](http://178.154.196.138)  
+### :link: Домен сервера - [http://express-mesto.kerjanoid.nomoredomains.club](http://express-mesto.kerjanoid.nomoredomains.club)  
