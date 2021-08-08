@@ -83,7 +83,7 @@ class Api {
 }
 
 export default new Api({
-  baseUrl: `express-mesto.kerjanoid.nomoredomains.monster`,
+  baseUrl: 'https://express-mesto.kerjanoid.nomoredomains.monster',
   headers: {
       authorization: `Bearer ${localStorage.getItem('token')}`,
       'Content-Type': 'application/json'

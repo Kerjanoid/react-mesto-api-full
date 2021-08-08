@@ -1,4 +1,4 @@
-export const BASE_URL = 'express-mesto.kerjanoid.nomoredomains.monster'
+export const BASE_URL = 'https://express-mesto.kerjanoid.nomoredomains.monster'
 
 const handleResponse = res => res.ok ? res.json() : Promise.reject(`Ошибка ${res.status}`)
 

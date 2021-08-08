@@ -1,7 +1,7 @@
 const express = require("express");
 
 const app = express();
-const { PORT = 8000 } = process.env;
+const { PORT = 3000 } = process.env;
 const mongoose = require("mongoose");
 const { celebrate, Joi, errors } = require("celebrate");
 const helmet = require("helmet");
