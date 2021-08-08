@@ -19,5 +19,5 @@
 1) Добавить валидацию форм
 2) Добавить бургер-меню при малых разрешениях экрана
 
-### :link: IP-адрес сервера - [https://84.201.166.163](https://84.201.166.163)  
+### :link: IP-адрес сервера (бэкенд) - [http://84.201.166.163](http://84.201.166.163)  
 ### :link: Домен сервера - [https://express-mesto.kerjanoid.nomoredomains.club](https://express-mesto.kerjanoid.nomoredomains.club)  
