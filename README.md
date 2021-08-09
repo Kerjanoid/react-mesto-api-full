@@ -20,4 +20,5 @@
 2) Добавить бургер-меню при малых разрешениях экрана
 
 ### :link: IP-адрес сервера (бэкенд) - [http://84.201.166.163](http://84.201.166.163)  
-### :link: Домен сервера - [https://express-mesto.kerjanoid.nomoredomains.club](https://express-mesto.kerjanoid.nomoredomains.club)  
+### :link: Домен сервера (фронтенд) - [https://express-mesto.kerjanoid.nomoredomains.club](https://express-mesto.kerjanoid.nomoredomains.club) 
+### :link: Домен сервера (бэкенд) - [https://express-mesto.kerjanoid.nomoredomains.monster](https://express-mesto.kerjanoid.nomoredomains.monster) 
